@@ -1,2 +1,2 @@
-# Embedded_systems
+# embedded_systems
 DSM-51 clock.
